@@ -1,0 +1,34 @@
+.btn-hover:hover{
+    background-color: green;
+}
+
+.btn{
+    margin: 2rem 3rem;
+}
+
+.orange-btn:hover{
+    background-color: red;
+}
+
+.green-btn:hover{
+    background-color: green;
+}
+
+.red-btn:hover{
+    background-color: red;
+}
+
+.options-display{
+    margin: 1.2rem 2rem;
+    padding: 0.5rem 1rem;
+}
+
+.height-start{
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 8rem;
+}

@@ -1,0 +1,138 @@
+[
+    {
+        "question": "What does the abbreviation HTML stand for?",
+        "a": "HighText Machine Language",
+        "b": "HyperText and links Markup Language",
+        "c": "None of these",
+        "d": "HyperText Markup Language",
+        "correct": "d"
+    },
+    {
+        "question": "The correct sequence of HTML tags for starting a webpage is -",
+        "a": "Head, Title, HTML, body",
+        "b": "HTML, Body, Title, Head",
+        "c": "HTML, Head, Title, Body",
+        "d": "HTML, Title, Head, Body",
+        "correct": "c"
+    },
+    {
+        "question": "Which of the following element is responsible for making the text bold in HTML?",
+        "a": "<pre>",
+        "b": "<a>",
+        "c": "<b>",
+        "d": "<br>",
+        "correct": "c"
+    },
+    {
+        "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "a": "<h3>",
+        "b": "<h1>",
+        "c": "<h5>",
+        "d": "<h4>",
+        "correct": "b"
+    },
+    {
+        "question": "Which of the following tag is used to insert a line-break in HTML?",
+        "a": "<br>",
+        "b": "<a>",
+        "c": "<pre>",
+        "d": "<i>",
+        "correct": "a"
+    },
+    {
+        "question": "How to create an unordered list (a list with the list items in bullets) in HTML?",
+        "a": "<li>",
+        "b": "<list>",
+        "c": "<ol>",
+        "d": "<ul>",
+        "correct": "d"
+    },
+    {
+        "question": "How to insert an image in HTML?",
+        "a": "<img href = 'jtp.png'>",
+        "b": "<img url = 'jtp.png'>",
+        "c": "<img link = 'jtp.png'>",
+        "d": "<img src = 'jtp.png'>",
+        "correct": "d"
+    },
+    {
+        "question": "How to create an ordered list (a list with the list items in numbers) in HTML?",
+        "a": "<ol>",
+        "b": "<list>",
+        "c": "<li>",
+        "d": "<ul>",
+        "correct": "a"
+    },
+    {
+        "question": "HTML tags are enclosed in-",
+        "a": "# and #",
+        "b": "{ and }",
+        "c": "< and >",
+        "d": "! and ?",
+        "correct": "c"
+    },
+    {
+        "question": "The <hr> tag in HTML is used for -",
+        "a": "new line",
+        "b": "vertical ruler",
+        "c": "new paragraph",
+        "d": "horizontal ruler",
+        "correct": "d"
+    },
+    {
+        "question": "An HTML program is saved by using the ____ extension.",
+        "a": ".ht",
+        "b": ".hml",
+        "c": ".html",
+        "d": ".txt",
+        "correct": "c"
+    },
+    {
+        "question": "A program in HTML can be rendered and read by -",
+        "a": "Web Browser",
+        "b": "Server",
+        "c": "Interpreter",
+        "d": "Notepad",
+        "correct": "a"
+    },
+    {
+        "question": "Which HTML tag is used to display the power in expression, i.e., (x2 - y2)?",
+        "a": "<sup>",
+        "b": "<sub>",
+        "c": "<p>",
+        "d": "<h1>",
+        "correct": "a"
+    },
+    {
+        "question": "CSS stands for -",
+        "a": "Cascade style sheets",
+        "b": "Color and style sheets",
+        "c": "Cascading style sheets",
+        "d": "Custom Styles Sheet",
+        "correct": "c"
+    },
+    {
+        "question": "The CSS property used to control the element's font-size is -",
+        "a": "text-style",
+        "b": "text-size",
+        "c": "font-size",
+        "d": "font-height",
+        "correct": "c"
+    },
+    {
+        "question": "The HTML attribute used to define the internal stylesheet is -",
+        "a": "<style>",
+        "b": "<css>",
+        "c": "<script>",
+        "d": "<link>",
+        "correct": "a"
+    },
+    {
+        "question": "Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?",
+        "a": "p {background-color : yellow;}",
+        "b": "p {background-color : #yellow;}",
+        "c": "all {background-color : yellow;}",
+        "d": "all p {background-color : #yellow;}",
+        "correct": "a"
+    }
+]
